@@ -4,8 +4,8 @@
 - 💻 Linux enthusiast.
 - 🔭 Exploring Golang and DevOps.
 - 🌐 DNS & Networking for self-hosted deployments.
-- 🌱 **I’m currently learning:** DevOps
-- 🔭 **Currently working on:** Database Design and Implementation
+- 🌱 I’m currently learning: DevOps
+- 🔭 Currently working on: Database Design and Implementation
 
 
 ## 🌐 Socials:
