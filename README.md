@@ -15,7 +15,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamdheerajjain&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iamdheerajjain&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=iamdheerajjain&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
