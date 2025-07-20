@@ -23,9 +23,14 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-<div style="padding-left: 150px;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=iamdheerajjain&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
-</div>
+<table>
+  <tr>
+    <td width="180px"></td> <!-- Same simulated left margin -->
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=iamdheerajjain&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
