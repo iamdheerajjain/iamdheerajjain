@@ -22,15 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&theme=blue_navy&hide_border=true&layout=compact&langs_count=6&card_width=430" />
 </div>
 
-### 🔝 Top Contributed Repo
-<table>
-  <tr>
-    <td width="180px"></td> <!-- Same simulated left margin -->
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=iamdheerajjain&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
-    </td>
-  </tr>
-</table>
+# 🔝 Top Contributed Repo:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&theme=blue_navy&hide_border=true&layout=compact&langs_count=6&card_width=430" />
+</div>
 
 
 ## 🌐 Socials:
