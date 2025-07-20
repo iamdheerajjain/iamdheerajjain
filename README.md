@@ -23,7 +23,7 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-<div style="padding-left: 50px;">
+<div style="padding-left: 150px;">
   <img src="https://github-contributor-stats.vercel.app/api?username=iamdheerajjain&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
 </div>
 
