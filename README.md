@@ -15,11 +15,11 @@
 
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamdheerajjain&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&card_width=430" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iamdheerajjain&theme=blue_navy&hide_border=false&card_width=430" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamdheerajjain&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&card_width=400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iamdheerajjain&theme=blue_navy&hide_border=false&card_width=400" />
 </div><br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&theme=blue_navy&hide_border=flase&layout=compact&langs_count=6&card_width=430" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&theme=blue_navy&hide_border=flase&layout=compact&langs_count=6&card_width=400" />
 </div>
 
 # 🔝 Top Contributed Repo:
@@ -27,10 +27,7 @@
  <img src="https://github-contributor-stats.vercel.app/api?username=iamdheerajjain&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
 </div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdheerajjain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djprakul2004@gmail.com) 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdheerajjain)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djprakul2004@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dj_prakul_2004) 
