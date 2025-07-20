@@ -21,7 +21,10 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
 
 
 ### 🔝 Top Contributed Repo
