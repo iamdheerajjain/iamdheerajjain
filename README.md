@@ -16,19 +16,17 @@
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=iamdheerajjain&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&card_width=430" />
-  
   <img src="https://nirzak-streak-stats.vercel.app/?user=iamdheerajjain&theme=blue_navy&hide_border=true&card_width=430" />
-</div>
-
-<br/>
-
+</div><br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&theme=blue_navy&hide_border=true&layout=compact&langs_count=6&card_width=430" />
 </div>
 
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamdheerajjain&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=iamdheerajjain&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdheerajjain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djprakul2004@gmail.com) 
