@@ -1,4 +1,4 @@
-<img src="https://shorturl.bz/wlG" alt="Banner" width="100%" />
+<img src="https://shorturl.bz/wlG" alt="Banner" width="70%" />
 
 ## 🌟 About Me:
 **A passionate Cloud Engineer || DevOps Engineer**
