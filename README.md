@@ -1,4 +1,4 @@
-[![MasterHead](https://shorturl.bz/wlG) width="240"](https://shorturl.bz/wlG)
+<img src="https://shorturl.bz/wlG" alt="Banner" width="100%" />
 
 ## 🌟 About Me:
 **A passionate Cloud Engineer || DevOps Engineer**
