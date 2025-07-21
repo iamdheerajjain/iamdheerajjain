@@ -2,7 +2,7 @@
 
 ## 🌟 About Me:
 **A passionate Cloud Engineer || DevOps Engineer**
-<img align="right" alt="Coding" width="250" src="https://shorturl.bz/wlx">
+<img align="right" alt="Coding" width="245" src="https://shorturl.bz/wlx">
 
 - 💻 Linux enthusiast.
 - 🔭 Exploring Golang and DevOps.
