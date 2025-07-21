@@ -1,4 +1,4 @@
-[![MasterHead](https://shorturl.bz/wlG)](https://shorturl.bz/wlG)
+[![MasterHead](https://shorturl.bz/wlG) width="240"](https://shorturl.bz/wlG)
 
 ## 🌟 About Me:
 **A passionate Cloud Engineer || DevOps Engineer**
