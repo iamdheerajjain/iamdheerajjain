@@ -2,9 +2,7 @@
 
 ## 🌟 About Me:
 **A passionate Cloud Engineer || DevOps Engineer**
-<div style="height: 240px; overflow: hidden;">
-  <img align="right" alt="Coding" src="https://shorturl.bz/wlx" style="height: 240px; object-fit: cover; margin-left: 20px;" />
-</div>
+<img align="right" alt="Coding" width="240" src="https://shorturl.bz/wlx" style="height: 100px; object-fit: cover; margin-left: 20px;" />
 
 - 💻 Linux enthusiast.
 - 🔭 Exploring Golang and DevOps.
