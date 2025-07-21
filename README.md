@@ -1,8 +1,8 @@
 [![MasterHead](https://shorturl.bz/wlG)](https://shorturl.bz/wlG)
 
 ## 🌟 About Me:
-<img align="right" alt="Coding" width="250" src="https://shorturl.bz/wlx">
 **A passionate Cloud Engineer || DevOps Engineer**
+  <img align="right" alt="Coding" width="240" src="https://shorturl.bz/wlx">
 
 - 💻 Linux enthusiast.
 - 🔭 Exploring Golang and DevOps.
