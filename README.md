@@ -16,7 +16,7 @@
   
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,linux,azure,docker,kubernentes,cloudflare,eclipse,go,kafka,neovim,nodejs,ps,postman,prometheus,react,terraform,vercel,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,linux,azure,docker,kubernetes,git,cloudflare,eclipse,go,kafka,neovim,nodejs,ps,postman,prometheus,react,terraform,vercel,)](https://skillicons.dev)
 
 <div align="center" hide_border=false>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
