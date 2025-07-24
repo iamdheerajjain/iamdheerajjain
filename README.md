@@ -7,21 +7,12 @@
 ---
 
 <h3><strong>A passionate Cloud Engineer || DevOps Engineer</strong></h3>
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>💻 Linux enthusiast.</li>
-        <li>🔭 Exploring Golang and DevOps.</li>
-        <li>🌐 DNS & Networking for self-hosted deployments.</li>
-        <li>🌱 Currently working on: Database Design and Implementation</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://shorturl.bz/wlx" alt="Coding" width="230" />
-    </td>
-  </tr>
-</table> 
+<img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="230" />
+
+- 💻 Linux enthusiast.  
+- 🔭 Exploring Golang and DevOps.  
+- 🌐 DNS & Networking for self-hosted deployments.  
+- 🌱 Currently working on: Database Design and Implementation
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=cpp,go,linux,bash,azure,docker,kubernetes,ansible,grafana,jenkins,terraform,git,kafka,postman,prometheus,openstack,cloudflare,vercel,html,css,js,nextjs,nodejs,react,vscode,neovim,androidstudio,eclipse,ps)](https://skillicons.dev)
