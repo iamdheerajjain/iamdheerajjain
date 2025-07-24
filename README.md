@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&pause=100&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+guys;I+am+Dheeraj+Jain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&pause=130&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+guys;I+am+Dheeraj+Jain" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
   
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,go,linux,bash,azure,docker,kubernetes,ansible,grafana,jenkins,terraform,git,kafka,postman,prometheus,openstack,cloudflare,vercel,html,css,js,nextjs,nodejs,react,vscode,neovim,androidstudio,eclipse,,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,linux,bash,azure,docker,kubernetes,ansible,grafana,jenkins,terraform,git,kafka,postman,prometheus,openstack,cloudflare,vercel,html,css,js,nextjs,nodejs,react,vscode,neovim,androidstudio,eclipse,ps)](https://skillicons.dev)
 
 <div align="center" hide_border=false>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
