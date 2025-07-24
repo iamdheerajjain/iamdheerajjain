@@ -1,10 +1,6 @@
-<h1 align="center">
-  👋 Hi all,&nbsp;I am Dheeraj Jain
-</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Cloud+Engineer;DevOps+Engineer;Linux+Enthusiast;Self+Hosted+Infra+Fan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+all+👋;I+am+Dheeraj+Jain" alt="Typing SVG" />
   </a>
 </p>
 
