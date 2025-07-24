@@ -7,12 +7,17 @@
 ---
 
 <h3><strong>A passionate Cloud Engineer || DevOps Engineer</strong></h3>
-<img align="right" alt="Coding" width="240" src="https://shorturl.bz/wlx" style="height: 230px; object-fit: cover; margin-left: 20px;" />
-
-- 💻 Linux enthusiast.
-- 🔭 Exploring Golang and DevOps.
-- 🌐 DNS & Networking for self-hosted deployments.
-- 🌱 Currently working on: Database Design and Implementation
+<div style="display: flex; align-items: center;">
+  <img src="https://shorturl.bz/wlx" alt="Coding" width="230" style="margin-right: 20px;" />
+  <div>
+    <ul>
+      <li>💻 Linux enthusiast.</li>
+      <li>🔭 Exploring Golang and DevOps.</li>
+      <li>🌐 DNS & Networking for self-hosted deployments.</li>
+      <li>🌱 Currently working on: Database Design and Implementation</li>
+    </ul>
+  </div>
+</div>
   
 
 ## 💻 Tech Stack:
