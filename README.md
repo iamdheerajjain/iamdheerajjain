@@ -1,5 +1,3 @@
-<img src="https://shorturl.bz/wlG" alt="Banner" style="width: 100%; height: 280px; object-fit: cover;" />
-
 ## 🌟 About Me:
 **A passionate Cloud Engineer || DevOps Engineer**
 <img align="right" alt="Coding" width="240" src="https://shorturl.bz/wlx" style="height: 175px; object-fit: cover; margin-left: 20px;" />
