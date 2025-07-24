@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+all+;I+am+Dheeraj+Jain)](https://git.io/typing-svg)
+---
 **A passionate Cloud Engineer || DevOps Engineer**
 <img align="right" alt="Coding" width="240" src="https://shorturl.bz/wlx" style="height: 175px; object-fit: cover; margin-left: 20px;" />
 
