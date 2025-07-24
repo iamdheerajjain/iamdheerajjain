@@ -7,7 +7,7 @@
 ---
 
 <h3><strong>A passionate Cloud Engineer || DevOps Engineer</strong></h3>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: right;">
   <img src="https://shorturl.bz/wlx" alt="Coding" width="230" style="margin-right: 20px;" />
   <div>
     <ul>
