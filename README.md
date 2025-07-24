@@ -6,7 +6,7 @@
 
 ---
 
-*****A passionate Cloud Engineer || DevOps Engineer*****
+<h2><strong>A passionate Cloud Engineer || DevOps Engineer</strong></h2>
 <img align="right" alt="Coding" width="240" src="https://shorturl.bz/wlx" style="height: 175px; object-fit: cover; margin-left: 20px;" />
 
 - 💻 Linux enthusiast.
