@@ -7,7 +7,7 @@
 ---
 
 <h3><strong>A passionate Cloud Engineer || DevOps Engineer</strong></h3>
-<img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="230" />
+<img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="200" />
 
 - 💻 Linux enthusiast.  
 - 🔭 Exploring Golang and DevOps.  
