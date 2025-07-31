@@ -65,29 +65,29 @@ spec:
 <!-- Tech Stack with Categories -->
 <table align="center">
   <tr>
-    <td align="center" width="255">
+    <td align="center" width="260">
       <h3>💻 Programming</h3>
       <img src="https://skillicons.dev/icons?i=cpp,go,bash,python,js,nodejs" />
     </td>
-    <td align="center" width="255">
+    <td align="center" width="260">
       <h3>∞ DevOps</h3>
       <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,jenkins" />
     </td>
-    <td align="center" width="255">
+    <td align="center" width="260">
       <h3>☁️ Cloud Platforms</h3>
       <img src="https://skillicons.dev/icons?i=azure,aws,openstack,vercel,netlify" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="255">
+    <td align="center" width="260">
       <h3>🌐 Web Technologies</h3>
       <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vercel,cloudflare" />
     </td>
-    <td align="center" width="255">
+    <td align="center" width="260">
       <h3>🔧 Tools & Systems</h3>
       <img src="https://skillicons.dev/icons?i=linux,git,prometheus,grafana,kafka,postman" />
     </td>
-    <td align="center" width="255">
+    <td align="center" width="260">
       <h3>🎨 IDE</h3>
       <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,eclipse,ps" />
     </td>
