@@ -66,7 +66,7 @@ spec:
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <h3>DevOps</h3>
+      <h3>∞ DevOps</h3>
       <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,jenkins" />
     </td>
     <td align="center" width="250">
@@ -84,7 +84,7 @@ spec:
       <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vercel,cloudflare" />
     </td>
     <td align="center" width="250">
-      <h3>🎨 Development Environment</h3>
+      <h3>🎨 IDE</h3>
       <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,eclipse,ps,figma" />
     </td>
     <td align="center" width="250">
