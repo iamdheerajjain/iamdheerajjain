@@ -9,9 +9,9 @@
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35" />
-    💻 My Profile 
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35" />
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />
+    My Profile 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />
   </h2>
 </div>
 
@@ -28,9 +28,9 @@
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35" />
-    💻 Tech Stack 
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35" />
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35" />
+    Tech Stack 
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35" />
   </h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,go,linux,bash,azure,docker,kubernetes,ansible,grafana,jenkins,terraform,git,kafka,postman,prometheus,openstack,cloudflare,vercel,html,css,js,nextjs,nodejs,react,vscode,neovim,androidstudio,eclipse,ps" />
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35" />
-    📊 Digital Footprint 
+    Digital Footprint 
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35" />
   </h2>
 </div>
@@ -69,7 +69,7 @@
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" height="35" />
-    🌐 Socials 
+    Socials 
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" height="35" />
   </h2>
   
