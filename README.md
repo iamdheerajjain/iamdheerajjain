@@ -19,7 +19,7 @@
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />
-    🚀 About Me 
+    About Me 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />
   </h2>
 </div>
@@ -47,9 +47,6 @@ spec:
     - 🌐 Networking: DNS & Self-hosted Solutions  
     - 🗄️ Database: Design & Implementation
     - 🔐 Security: DevSecOps Practices
-  philosophy: |
-    "Automate everything, monitor everything, 
-     secure everything, and make it scalable!"
 ```
 
 <!-- Animated Divider -->
@@ -61,7 +58,7 @@ spec:
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35" />
-    ⚡ Tech Arsenal 
+    Tech Arsenal 
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35" />
   </h2>
 </div>
@@ -70,7 +67,7 @@ spec:
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <h3>🚀 DevOps & Cloud</h3>
+      <h3>DevOps & Cloud</h3>
       <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,jenkins" />
     </td>
     <td align="center" width="200">
@@ -116,7 +113,7 @@ spec:
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35" />
-    📊 GitHub Analytics 
+    GitHub Analytics 
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35" />
   </h2>
 </div>
@@ -147,25 +144,7 @@ spec:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Current Projects Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35" height="35" />
-    🚧 Current Projects 
-    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35" height="35" />
-  </h2>
-</div>
 
-<div align="center">
-  
-| 🔥 Project | 📝 Description | 🛠️ Tech Stack |
-|------------|----------------|---------------|
-| **Infrastructure Automation** | Building scalable cloud infrastructure with IaC | `Terraform` `Ansible` `Azure` |
-| **Kubernetes Cluster Management** | Multi-cluster orchestration and monitoring | `Kubernetes` `Helm` `Prometheus` |
-| **Database Optimization** | Performance tuning and scaling strategies | `PostgreSQL` `MongoDB` `Redis` |
-| **CI/CD Pipeline Enhancement** | Advanced deployment strategies and testing | `Jenkins` `GitLab CI` `Docker` |
-
-</div>
 
 <!-- Animated Divider -->
 <p align="center">
@@ -196,36 +175,6 @@ spec:
   </a>
 </div>
 
-<!-- Fun Facts Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35" height="35" />
-    🎯 Fun Facts 
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35" height="35" />
-  </h2>
-</div>
-
-<div align="center">
-  
-```bash
-#!/bin/bash
-# Fun facts about me!
-
-echo "🌃 I code best during late night hours"
-echo "☕ Powered by coffee and curiosity"  
-echo "🐧 I dream in Linux commands"
-echo "🔄 I automate everything (including my morning routine)"
-echo "📚 Always learning something new in tech"
-echo "🎮 Gaming enthusiast when not coding"
-```
-
-</div>
-
-<!-- Random Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
-
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iamdheerajjain&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -235,11 +184,4 @@ echo "🎮 Gaming enthusiast when not coding"
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
 </p>
-
-<div align="center">
-  
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**⭐ Star my repositories if you find them useful!**
-
 </div>
