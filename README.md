@@ -24,7 +24,7 @@
   </h2>
 </div>
 
-<img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
+<img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="400px" style="margin-left: 20px;" />
 
 ```yaml
 apiVersion: v1
