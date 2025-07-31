@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+%F0%9F%91%8B;I'm+a+DevOps+Engineer+%E2%9A%99%EF%B8%8F;Cloud+Engineer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+%F0%9F%91%8B;I'm+a+DevOps+Engineer+%E2%9A%99%EF%B8%8F;Cloud+Engineer+%E2%98%81%EF%B8%8F;Infrastructure+Automation+Expert+%F0%9F%A4%96;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,12 +19,12 @@
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="35" />
-    About Me 
+    🚀 About Me 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />
   </h2>
 </div>
 
-<img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
 
 ```yaml
 apiVersion: v1
@@ -40,12 +40,16 @@ spec:
     - ☁️ Multi-Cloud Architecture (Azure, AWS)
     - 🐳 Containerization & Orchestration
     - 🔧 Infrastructure as Code (Terraform, Ansible)
+    - 📊 Monitoring & Observability
     - 🔄 CI/CD Pipeline Design
   currentFocus:
     - 🔍 Exploring: Golang & Advanced DevOps
     - 🌐 Networking: DNS & Self-hosted Solutions  
     - 🗄️ Database: Design & Implementation
     - 🔐 Security: DevSecOps Practices
+  philosophy: |
+    "Automate everything, monitor everything, 
+     secure everything, and make it scalable!"
 ```
 
 <!-- Animated Divider -->
@@ -57,7 +61,7 @@ spec:
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35" />
-    Tech Arsenal 
+    ⚡ Tech Arsenal 
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35" />
   </h2>
 </div>
@@ -66,7 +70,7 @@ spec:
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <h3>DevOps & Cloud</h3>
+      <h3>🚀 DevOps & Cloud</h3>
       <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,jenkins" />
     </td>
     <td align="center" width="200">
@@ -95,12 +99,13 @@ spec:
 </table>
 
 <!-- Snake Animation -->
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamdheerajjain/iamdheerajjain/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamdheerajjain/iamdheerajjain/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamdheerajjain/iamdheerajjain/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- Animated Divider -->
 <p align="center">
@@ -111,7 +116,7 @@ spec:
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35" />
-    GitHub Analytics 
+    📊 GitHub Analytics 
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35" />
   </h2>
 </div>
@@ -142,7 +147,25 @@ spec:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+<!-- Current Projects Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35" height="35" />
+    🚧 Current Projects 
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35" height="35" />
+  </h2>
+</div>
 
+<div align="center">
+  
+| 🔥 Project | 📝 Description | 🛠️ Tech Stack |
+|------------|----------------|---------------|
+| **Infrastructure Automation** | Building scalable cloud infrastructure with IaC | `Terraform` `Ansible` `Azure` |
+| **Kubernetes Cluster Management** | Multi-cluster orchestration and monitoring | `Kubernetes` `Helm` `Prometheus` |
+| **Database Optimization** | Performance tuning and scaling strategies | `PostgreSQL` `MongoDB` `Redis` |
+| **CI/CD Pipeline Enhancement** | Advanced deployment strategies and testing | `Jenkins` `GitLab CI` `Docker` |
+
+</div>
 
 <!-- Animated Divider -->
 <p align="center">
@@ -173,6 +196,36 @@ spec:
   </a>
 </div>
 
+<!-- Fun Facts Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35" height="35" />
+    🎯 Fun Facts 
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35" height="35" />
+  </h2>
+</div>
+
+<div align="center">
+  
+```bash
+#!/bin/bash
+# Fun facts about me!
+
+echo "🌃 I code best during late night hours"
+echo "☕ Powered by coffee and curiosity"  
+echo "🐧 I dream in Linux commands"
+echo "🔄 I automate everything (including my morning routine)"
+echo "📚 Always learning something new in tech"
+echo "🎮 Gaming enthusiast when not coding"
+```
+
+</div>
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+</div>
+
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iamdheerajjain&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -182,4 +235,11 @@ spec:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
 </p>
+
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**⭐ Star my repositories if you find them useful!**
+
 </div>
