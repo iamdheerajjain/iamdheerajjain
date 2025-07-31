@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&pause=130&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+There;I'm+a+DevOps+Engineer;Cloud+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&pause=130&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+There!;I'm+a+DevOps+Engineer;Cloud+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3><strong>A passionate Cloud Engineer || DevOps Engineer</strong>
 <img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="230" height="200px" style="margin-left: 20px;" />
