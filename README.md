@@ -9,7 +9,10 @@
 </p>
 
 <div align="center">
-  <h2>💻 My Profile:</h2>
+  <h2>
+    <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/master/icons/about.gif" width="40px" />
+    &nbsp;My Profile:
+  </h2>
 </div>
 
 <img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="230" height="200px" style="margin-left: 20px;" />
@@ -24,7 +27,10 @@
 </p>
 
 <div align="center">
-  <h2>💻 Tech Stack:</h2>
+  <h2>
+    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.gif" width="40px" />
+    &nbsp;Tech Stack:
+  </h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,go,linux,bash,azure,docker,kubernetes,ansible,grafana,jenkins,terraform,git,kafka,postman,prometheus,openstack,cloudflare,vercel,html,css,js,nextjs,nodejs,react,vscode,neovim,androidstudio,eclipse,ps" />
   </a>
@@ -39,7 +45,10 @@
 </p>
 
 <div align="center">
-  <h2>📊 Digital Footprint:</h2>
+  <h2>
+    <img src="https://cdn-icons-png.flaticon.com/512/4146/4146773.gif" width="40px" />
+    &nbsp;Digital Footprint:
+  </h2>
 </div>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -57,7 +66,10 @@
 </p>
 
 <div align="center">
-  <h2>🌐 Socials:</h2>
+  <h2>
+    <img src="https://cdn-icons-png.flaticon.com/512/4701/4701482.gif" width="40px" />
+    &nbsp;Socials:
+  </h2>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdheerajjain)
   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djprakul2004@gmail.com)
