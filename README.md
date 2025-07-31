@@ -67,7 +67,7 @@ spec:
   <tr>
     <td align="center" width="250">
       <h3>💻 Programming</h3>
-      <img src="https://skillicons.dev/icons?i=,cpp,go,bash,python,js,nodejs" />
+      <img src="https://skillicons.dev/icons?i=cpp,go,bash,python,js,nodejs" />
     </td>
     <td align="center" width="250">
       <h3>∞ DevOps</h3>
