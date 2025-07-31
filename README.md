@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/master/icons/about.gif" width="40px" />
+    <img src="https://raw.githubusercontent.com/Aravindlivewire/Aravindlivewire/main/assets/gifs/handshake.gif" width="40px" />
     &nbsp;My Profile:
   </h2>
 </div>
@@ -28,7 +28,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.gif" width="40px" />
+    <img src="https://raw.githubusercontent.com/Aravindlivewire/Aravindlivewire/main/assets/gifs/computer.gif" width="40px" />
     &nbsp;Tech Stack:
   </h2>
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://cdn-icons-png.flaticon.com/512/4146/4146773.gif" width="40px" />
+    <img src="https://raw.githubusercontent.com/Aravindlivewire/Aravindlivewire/main/assets/gifs/graph.gif" width="40px" />
     &nbsp;Digital Footprint:
   </h2>
 </div>
@@ -67,7 +67,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://cdn-icons-png.flaticon.com/512/4701/4701482.gif" width="40px" />
+    <img src="https://raw.githubusercontent.com/Aravindlivewire/Aravindlivewire/main/assets/gifs/network.gif" width="40px" />
     &nbsp;Socials:
   </h2>
 
