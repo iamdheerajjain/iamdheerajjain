@@ -32,7 +32,7 @@
 
 ## 🔝 Top Contributed Repo:
 <div align="center">
- <img src="https://github-contributor-stats.vercel.app/api?username=iamdheerajjain&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="activity graph" />
 </div>
 
 ## 🌐 Socials:
