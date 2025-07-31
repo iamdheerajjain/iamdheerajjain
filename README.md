@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <h3><strong>A passionate Cloud Engineer || DevOps Engineer</strong></h3>
+  <h2>💻 My Profile:</h2>
 </div>
 
 <img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="230" height="200px" style="margin-left: 20px;" />
