@@ -66,16 +66,16 @@ spec:
 <table align="center">
   <tr>
     <td align="center" width="250">
+      <h3>💻 Programming</h3>
+      <img src="https://skillicons.dev/icons?i=,cpp,go,bash,python,js,nodejs" />
+    </td>
+    <td align="center" width="250">
       <h3>∞ DevOps</h3>
       <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,jenkins" />
     </td>
     <td align="center" width="250">
-      <h3>💻 Programming</h3>
-      <img src="https://skillicons.dev/icons?i=go,cpp,bash,python,js,nodejs" />
-    </td>
-    <td align="center" width="250">
-      <h3>🔧 Tools & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=linux,git,prometheus,grafana,kafka,postman" />
+      <h3>☁️ Cloud Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=azure,aws,openstack,vercel,netlify" />
     </td>
   </tr>
   <tr>
@@ -84,12 +84,12 @@ spec:
       <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vercel,cloudflare" />
     </td>
     <td align="center" width="250">
-      <h3>🎨 IDE</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,eclipse,ps,figma" />
+      <h3>🔧 Tools & Systems</h3>
+      <img src="https://skillicons.dev/icons?i=linux,git,prometheus,grafana,kafka,postman" />
     </td>
     <td align="center" width="250">
-      <h3>☁️ Cloud Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=azure,aws,gcp,openstack,vercel,netlify" />
+      <h3>🎨 IDE</h3>
+      <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,eclipse,ps" />
     </td>
   </tr>
 </table>
