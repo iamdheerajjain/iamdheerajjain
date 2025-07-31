@@ -73,21 +73,21 @@ spec:
       <h3>💻 Programming</h3>
       <img src="https://skillicons.dev/icons?i=go,cpp,bash,python,js,nodejs" />
     </td>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <h3>🔧 Tools & Systems</h3>
       <img src="https://skillicons.dev/icons?i=linux,git,prometheus,grafana,kafka,postman" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="250">
       <h3>🌐 Web Technologies</h3>
       <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vercel,cloudflare" />
     </td>
-    <td align="center">
+    <td align="center" width="250">
       <h3>🎨 Development Environment</h3>
       <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,eclipse,ps,figma" />
     </td>
-    <td align="center">
+    <td align="center" width="250">
       <h3>☁️ Cloud Platforms</h3>
       <img src="https://skillicons.dev/icons?i=azure,aws,gcp,openstack,vercel,netlify" />
     </td>
