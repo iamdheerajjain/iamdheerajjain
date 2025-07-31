@@ -65,11 +65,11 @@ spec:
 <!-- Tech Stack with Categories -->
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <h3>DevOps & Cloud</h3>
+    <td align="center" width="250">
+      <h3>DevOps</h3>
       <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,jenkins" />
     </td>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <h3>💻 Programming</h3>
       <img src="https://skillicons.dev/icons?i=go,cpp,bash,python,js,nodejs" />
     </td>
@@ -150,7 +150,7 @@ spec:
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" height="35" />
-    🌐 Connect With Me 
+    Connect With Me 
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" height="35" />
   </h2>
 </div>
