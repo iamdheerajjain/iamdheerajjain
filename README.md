@@ -16,12 +16,16 @@
 - 🌱 Currently working on: Database Design and Implementation
 <div style="clear: both;"></div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=cpp,go,linux,bash,azure,docker,kubernetes,ansible,grafana,jenkins,terraform,git,kafka,postman,prometheus,openstack,cloudflare,vercel,html,css,js,nextjs,nodejs,react,vscode,neovim,androidstudio,eclipse,ps)](https://skillicons.dev)
 
 <div align="center" hide_border=false>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -32,6 +36,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="activity graph" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdheerajjain)
