@@ -29,8 +29,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=iamdheerajjain&theme=blue_navy&hide_border=false&card_width=500" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&theme=blue_navy&hide_border=flase&layout=compact&langs_count=6&card_width=500" />
 </div>
-
-## 🔝 Top Contributed Repo:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="activity graph" />
 </div>
