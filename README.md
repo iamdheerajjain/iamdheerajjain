@@ -24,7 +24,7 @@
   </h2>
 </div>
 
-<img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
+<img src="https://i.imgur.com/dBaSKWF.gif" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
 
 ```yaml
 apiVersion: v1
@@ -75,7 +75,7 @@ spec:
     </td>
     <td align="center" width="260">
       <h3>☁️ Cloud Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=azure,aws,openstack,vercel,netlify" />
+      <img src="https://skillicons.dev/icons?i=azure,aws,vercel,netlify" />
     </td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ spec:
     </td>
     <td align="center" width="260">
       <h3>🔧 Tools & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=linux,git,prometheus,grafana,kafka,postman" />
+      <img src="https://skillicons.dev/icons?i=linux,git,prometheus,grafana,postman" />
     </td>
     <td align="center" width="260">
       <h3>🎨 IDE</h3>
@@ -96,7 +96,7 @@ spec:
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <!-- Animated Divider -->
@@ -172,4 +172,3 @@ spec:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
 </p>
-</div>
