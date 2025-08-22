@@ -24,6 +24,10 @@
   </h2>
 </div>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 <img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
 
 ```yaml
@@ -47,6 +51,9 @@ spec:
     - 🗄️ Database: Design & Implementation
     - 🔐 Security: DevSecOps Practices
 ```
+</td>
+</tr>
+</table>
 
 <!-- Animated Divider -->
 <p align="center">
