@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Welcome -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dheeraj%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Linux%20Enthusiast&descSize=16&descAlignY=51"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=180&section=header&text=Dheeraj%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Linux%20Enthusiast&descSize=16&descAlignY=51"/>
 </p>
 
 <!-- Typing Animation -->
@@ -96,7 +96,7 @@ spec:
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <!-- Animated Divider -->
@@ -129,9 +129,23 @@ spec:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF" width="100%" alt="activity graph" />
 </div>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies - Fixed Version -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" />
+  <h3>🏆 GitHub Achievements</h3>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  </p>
+</div>
+
+<!-- Alternative Trophy Display (if the above doesn't work) -->
+<div align="center">
+  <details>
+    <summary>🏆 Alternative Trophy Display (Click to expand)</summary>
+    <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=tokyonight&column=3&row=2&margin-h=15&margin-w=5" alt="GitHub Trophies Alternative 1"/>
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=nord&column=4&row=2&margin-h=10&margin-w=5" alt="GitHub Trophies Alternative 2"/>
+  </details>
 </div>
 
 <!-- Animated Divider -->
@@ -170,6 +184,5 @@ spec:
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
 </p>
-</div>
