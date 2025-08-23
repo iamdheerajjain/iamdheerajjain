@@ -129,23 +129,9 @@ spec:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF" width="100%" alt="activity graph" />
 </div>
 
-<!-- GitHub Trophies - Fixed Version -->
+<!-- GitHub Trophies -->
 <div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-  </p>
-</div>
-
-<!-- Alternative Trophy Display (if the above doesn't work) -->
-<div align="center">
-  <details>
-    <summary>🏆 Alternative Trophy Display (Click to expand)</summary>
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=tokyonight&column=3&row=2&margin-h=15&margin-w=5" alt="GitHub Trophies Alternative 1"/>
-    <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=nord&column=4&row=2&margin-h=10&margin-w=5" alt="GitHub Trophies Alternative 2"/>
-  </details>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" />
 </div>
 
 <!-- Animated Divider -->
