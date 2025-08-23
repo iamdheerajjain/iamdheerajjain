@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Welcome -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=211, 211, 255&height=180&section=header&text=Dheeraj%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Linux%20Enthusiast&descSize=16&descAlignY=51"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=#8F00FF&height=180&section=header&text=Dheeraj%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Linux%20Enthusiast&descSize=16&descAlignY=51"/>
 </p>
 
 <!-- Typing Animation -->
@@ -170,6 +170,6 @@ spec:
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=211, 211, 255&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=#8F00FF&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
 </p>
 </div>
