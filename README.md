@@ -129,6 +129,12 @@ spec:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF" width="100%" alt="activity graph" />
 </div>
 
+<!-- Detailed Language Stats using different service -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamdheerajjain&theme=tokyonight" alt="Top Languages by Commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamdheerajjain&theme=tokyonight" alt="Top Languages by Repo"/>
+</div>
+
 <!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamdheerajjain&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" />
