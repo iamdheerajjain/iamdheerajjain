@@ -108,11 +108,6 @@ spec:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
-</p>
-
 <!-- Additional Stats Row - Using ProfileReadmeGenerator -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdheerajjain&theme=tokyonight&show_icons=true" alt="GitHub Stats"/>
@@ -122,6 +117,11 @@ spec:
 <!-- Detailed Profile Card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdheerajjain&theme=tokyonight" width="100%" alt="Profile Details"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 </p>
 
 <!-- Animated Divider -->
