@@ -24,7 +24,6 @@
   </h2>
 </div>
 
-<div align="center" style="width: 100%; max-width: 1200px; margin: 0 auto;">
   <img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
 
 ```yaml
