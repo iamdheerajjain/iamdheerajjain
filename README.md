@@ -108,26 +108,6 @@ spec:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- GitHub Stats Section - UPDATED FOR BETTER REFRESH -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35" />
-    GitHub Analytics 
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35" />
-  </h2>
-</div>
-
-<!-- Primary Stats Row - Using Alternative Instance -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamdheerajjain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamdheerajjain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamdheerajjain&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" />
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
