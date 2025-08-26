@@ -108,47 +108,32 @@ spec:
   </h2>
 </div>
 
-<!-- Main GitHub Stats Cards -->
-<div align="center">
+<!-- Primary Stats Row -->
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdheerajjain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
-</div>
+</p>
 
-<br/>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
+<!-- Streak Stats -->
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=iamdheerajjain&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
+</p>
 
-<br/>
-
-<!-- GitHub Contribution Graph -->
-<div align="center">
+<!-- Activity Graph -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
+</p>
 
-<br/>
-
-<!-- GitHub Profile Summary Cards -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdheerajjain&theme=tokyonight" width="100%" alt="Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamdheerajjain&theme=tokyonight" alt="Top Languages by Commits"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamdheerajjain&theme=tokyonight" alt="Top Languages by Repo"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdheerajjain&theme=tokyonight" alt="Stats"/>
+<!-- Additional Stats Row -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdheerajjain&theme=tokyonight" alt="Additional Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamdheerajjain&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
+</p>
 
 <!-- Snake Animation -->
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+</p>
 
 <!-- Animated Divider -->
 <p align="center">
