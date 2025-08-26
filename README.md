@@ -121,7 +121,7 @@ spec:
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="120%" alt="Contribution Graph" />
 </p>
 
 <!-- Animated Divider -->
