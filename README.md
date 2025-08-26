@@ -99,7 +99,7 @@ spec:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- GitHub Stats Section - FIXED -->
+<!-- GitHub Stats Section - UPDATED FOR BETTER REFRESH -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35" />
@@ -108,31 +108,40 @@ spec:
   </h2>
 </div>
 
-<!-- Primary Stats Row -->
+<!-- Primary Stats Row - Using Alternative Instance -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdheerajjain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheerajjain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamdheerajjain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamdheerajjain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamdheerajjain&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=iamdheerajjain&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 </p>
 
-<!-- Additional Stats Row -->
+<!-- Additional Stats Row - Using ProfileReadmeGenerator -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdheerajjain&theme=tokyonight" alt="Additional Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdheerajjain&theme=tokyonight&show_icons=true" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamdheerajjain&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</p>
+
+<!-- Detailed Profile Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdheerajjain&theme=tokyonight" width="100%" alt="Profile Details"/>
 </p>
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <!-- Animated Divider -->
