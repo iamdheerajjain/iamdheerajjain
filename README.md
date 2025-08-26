@@ -1,18 +1,18 @@
 <!-- Header Section with Animated Welcome -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B794F6,100:4299E1&height=180&section=header&text=Dheeraj%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Linux%20Enthusiast&descSize=16&descAlignY=51"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B794F6,100:4299E1&height=180&section=header&text=Dheeraj%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Linux%20Enthusiast&descSize=16&descAlignY=51" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+%F0%9F%91%8B;I'm+a+DevOps+Engineer;Cloud+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hey+There!+%F0%9F%91%8B;I'm+a+DevOps+Engineer;Cloud+Engineer" alt="Typing SVG" width="100%" style="max-width: 800px;" />
   </a>
 </p>
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <!-- About Me Section -->
@@ -24,7 +24,8 @@
   </h2>
 </div>
 
-<img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
+<div align="center" style="width: 100%; max-width: 1200px; margin: 0 auto;">
+  <img src="https://shorturl.bz/wlx" alt="Coding" align="right" width="400" height="300px" style="margin-left: 20px;" />
 
 ```yaml
 apiVersion: v1
@@ -47,10 +48,11 @@ spec:
     - 🗄️ Database: Design & Implementation
     - 🔐 Security: DevSecOps Practices
 ```
+</div>
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <!-- Tech Stack Section -->
@@ -63,49 +65,51 @@ spec:
 </div>
 
 <!-- Tech Stack with Categories -->
-<table align="center">
-  <tr>
-    <td align="center" width="260">
-      <h3>💻 Programming</h3>
-      <img src="https://skillicons.dev/icons?i=cpp,go,bash,python,js,nodejs" />
-    </td>
-    <td align="center" width="260">
-      <h3>∞ DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,jenkins" />
-    </td>
-    <td align="center" width="260">
-      <h3>☁️ Cloud Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=azure,aws,openstack,vercel,netlify" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="260">
-      <h3>🌐 Web Technologies</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vercel,cloudflare" />
-    </td>
-    <td align="center" width="260">
-      <h3>🔧 Tools & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=linux,git,prometheus,grafana,kafka,postman" />
-    </td>
-    <td align="center" width="260">
-      <h3>🎨 IDE</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,eclipse,ps" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="width: 100%; max-width: 1200px; margin: 0 auto;">
+  <table align="center" width="100%">
+    <tr>
+      <td align="center" width="33.33%">
+        <h3>💻 Programming</h3>
+        <img src="https://skillicons.dev/icons?i=cpp,go,bash,python,js,nodejs" width="100%" style="max-width: 300px;" />
+      </td>
+      <td align="center" width="33.33%">
+        <h3>∞ DevOps</h3>
+        <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,jenkins" width="100%" style="max-width: 300px;" />
+      </td>
+      <td align="center" width="33.33%">
+        <h3>☁️ Cloud Platforms</h3>
+        <img src="https://skillicons.dev/icons?i=azure,aws,openstack,vercel,netlify" width="100%" style="max-width: 300px;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33.33%">
+        <h3>🌐 Web Technologies</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vercel,cloudflare" width="100%" style="max-width: 300px;" />
+      </td>
+      <td align="center" width="33.33%">
+        <h3>🔧 Tools & Systems</h3>
+        <img src="https://skillicons.dev/icons?i=linux,git,prometheus,grafana,kafka,postman" width="100%" style="max-width: 300px;" />
+      </td>
+      <td align="center" width="33.33%">
+        <h3>🎨 IDE</h3>
+        <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,eclipse,ps" width="100%" style="max-width: 300px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Snake Animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <!-- Detailed Profile Card -->
@@ -114,19 +118,21 @@ spec:
 </p>
 
 <!-- Additional Stats Row - Using ProfileReadmeGenerator -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdheerajjain&theme=tokyonight&show_icons=true" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamdheerajjain&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</p>
+<div align="center" style="width: 100%; max-width: 1200px; margin: 0 auto;">
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdheerajjain&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="49%" style="max-width: 400px;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamdheerajjain&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%" style="max-width: 400px;"/>
+  </p>
+</div>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="150%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdheerajjain&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 </p>
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <!-- Socials Section -->
@@ -138,7 +144,7 @@ spec:
   </h2>
 </div>
 
-<div align="center">
+<div align="center" style="width: 100%; max-width: 800px; margin: 0 auto;">
   <a href="https://linkedin.com/in/iamdheerajjain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
@@ -154,11 +160,11 @@ spec:
 </div>
 
 <!-- Profile Views Counter -->
-<div align="center">
+<div align="center" style="width: 100%; margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=iamdheerajjain&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B794F6,100:4299E1&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B794F6,100:4299E1&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
 </p>
