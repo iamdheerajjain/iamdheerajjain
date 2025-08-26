@@ -108,15 +108,15 @@ spec:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+<!-- Detailed Profile Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdheerajjain&theme=tokyonight" width="100%" alt="Profile Details"/>
+</p>
+
 <!-- Additional Stats Row - Using ProfileReadmeGenerator -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdheerajjain&theme=tokyonight&show_icons=true" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamdheerajjain&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</p>
-
-<!-- Detailed Profile Card -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdheerajjain&theme=tokyonight" width="100%" alt="Profile Details"/>
 </p>
 
 <!-- Activity Graph -->
