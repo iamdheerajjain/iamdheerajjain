@@ -24,7 +24,8 @@
   </h2>
 </div>
 
-  <img src="https://shorturl.at/XErF7" alt="Coding" align="right" width="400" height="400px" style="margin-left: 20px;" />
+<div align="center">
+  <img src="https://shorturl.at/XErF7" alt="Coding" align="right" width="400" height="400px" style="margin-left: 20px; border-radius: 10px; object-fit: cover;" />
 
 ```yaml
 apiVersion: v1
